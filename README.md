@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
