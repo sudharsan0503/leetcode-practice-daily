@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3312-number-of-changing-keys](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3312-number-of-changing-keys) |
 ## Array
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3515-find-if-digit-game-can-be-won) |
