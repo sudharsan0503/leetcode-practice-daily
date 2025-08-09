@@ -1,8 +1,7 @@
 class Solution {
 public:
     string firstPalindrome(vector<string>& words) {
-        int i=0;
-        while(i<words.size()){
+        for(int i=0;i<words.size();i++){
             string s1=words[i];
             bool flag=true;
             int low=0;
@@ -14,7 +13,6 @@ public:
                 high--;
             }
             if(flag) return s1;
-            i++;
         }
         return "";
     }
