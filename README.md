@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
