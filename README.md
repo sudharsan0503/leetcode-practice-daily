@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1610-xor-operation-in-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
