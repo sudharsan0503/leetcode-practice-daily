@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
