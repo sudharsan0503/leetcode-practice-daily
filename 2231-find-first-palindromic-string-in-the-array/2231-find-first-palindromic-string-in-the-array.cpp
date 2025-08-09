@@ -4,9 +4,8 @@ public:
         for(int i=0;i<words.size();i++){
             string s1=words[i];
             string temp="";
-            int l=0;
             int j=words[i].length()-1;
-            while(l<=j){
+            while(j>=0){
                 temp+=words[i][j];
                 j--;
             }
