@@ -7,7 +7,6 @@ public:
             if(nums[i]<10) singlesum+=nums[i];
             else doublesum+=nums[i];
         }
-        if(singlesum>doublesum||doublesum>singlesum) return true;
-        else return false;
+        return doublesum==singlesum?false:true;
     }
 };
