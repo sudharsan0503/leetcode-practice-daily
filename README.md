@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
