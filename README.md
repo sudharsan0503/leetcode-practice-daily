@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
