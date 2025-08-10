@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
