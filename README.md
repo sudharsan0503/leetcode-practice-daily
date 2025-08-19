@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0258-add-digits) |
