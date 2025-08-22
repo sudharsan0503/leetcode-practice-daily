@@ -2,24 +2,18 @@ class Solution {
 public:
     vector<string> cellsInRange(string s) {
         vector<string>res;
-
-        int pos=s.find(":");
-
-        string left=s.substr(0,pos);
-        string right=s.substr(pos+1);
-
-        char ch1=left[0];
-        char ch2=right[0];
-
-        int start=stoi(left.substr(1));
-        int end=stoi(right.substr(1));
-
-        for(char c=ch1;c<=ch2;c++){
-            for(int i=start;i<=end;i++){
-            string word=string(1,static_cast<char>(c))+to_string(i);
-            res.push_back(word);
-           }
+        char c1=s[0],c2=s[1],c3=s[3],c4=s[4];
+        while(c1<=c3){
+            char t=c2;
+            while(t<=c4){
+                string cell="";
+                cell+=c1;
+                cell+=t;
+                res.push_back(cell);
+                t++;
+            }
+            c1++;
         }
-     return res;
+        return res;
     }
 };
