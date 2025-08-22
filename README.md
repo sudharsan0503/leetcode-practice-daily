@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0657-robot-return-to-origin) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [3194-find-words-containing-character](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3312-number-of-changing-keys) |
 ## Array
