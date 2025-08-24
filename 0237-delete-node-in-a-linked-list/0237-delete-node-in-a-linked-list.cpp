@@ -9,10 +9,10 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        if(node==NULL||node->next==NULL){
+        /*if(node==NULL||node->next==NULL){
             free(node);
             return;
-        }
+        }no need as givn node is valid and not the last node.*/
         node->val=node->next->val;
         node->next=node->next->next;
         return;
