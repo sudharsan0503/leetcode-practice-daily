@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
