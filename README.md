@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
