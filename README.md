@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
@@ -107,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
