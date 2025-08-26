@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0168-excel-sheet-column-title) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
