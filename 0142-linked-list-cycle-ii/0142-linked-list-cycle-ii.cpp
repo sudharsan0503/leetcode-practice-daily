@@ -16,7 +16,7 @@ public:
             fast=fast->next->next;
             if(slow==fast){
                 slow=head;
-                while(slow!=fast){
+                while(slow!=fast){ //donot put slow->val==fast->val
                     slow=slow->next;
                     fast=fast->next;
                 }
