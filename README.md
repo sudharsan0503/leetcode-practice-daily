@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
