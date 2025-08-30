@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0148-sort-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
