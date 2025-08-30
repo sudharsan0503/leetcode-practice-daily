@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
