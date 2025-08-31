@@ -1,19 +1,18 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-         int sz=nums.size();
-
-         int candidate=0;
-         int points=0;
-
-         for(int i=0;i<sz;i++){
-            if(points==0)
-                candidate=nums[i];
-            if(candidate==nums[i])
-                points++;
-            else
-                points--;
-         }
-        return candidate;
+        unordered_map<int,int>mpp;
+        for(int i=0;i<nums.size();i++){
+            mpp[nums[i]]++;
+        }
+        int maxe=0;
+        int majo=nums.size()/2;
+        for(auto it:mpp){
+            if(it.second>majo){
+                maxe=it.first;
+                majo=it.second;
+            }
+        }
+       return maxe;
     }
 };
