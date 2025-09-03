@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
