@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
