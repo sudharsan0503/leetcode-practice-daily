@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0657-robot-return-to-origin) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0560-subarray-sum-equals-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
