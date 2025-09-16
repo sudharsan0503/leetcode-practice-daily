@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3194-find-words-containing-character) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2812-find-the-maximum-achievable-number) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Linked List
 |  |
 | ------- |
