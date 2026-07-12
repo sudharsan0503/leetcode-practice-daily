@@ -268,4 +268,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
