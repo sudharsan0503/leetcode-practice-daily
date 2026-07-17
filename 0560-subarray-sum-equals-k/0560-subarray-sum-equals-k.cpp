@@ -1,15 +1,21 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        map<int,int>mpp;
-        int sum=0;
+        int n=nums.size();
+        int prefix[n];
+        for(int i=0;i<n;i++){
+            prefix[i]=nums[i];
+            if(i>0){
+                prefix[i]+=prefix[i-1];
+            }
+        }
+
+        map<int,int>freq;
+        freq[0]=1;
         int count=0;
-        mpp[0]=1;
-        for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
-            int rem=sum-k;
-            count+=mpp[rem];
-            mpp[sum]+=1;
+        for(int j=0;j<n;j++){
+           count+=freq[prefix[j]-k];
+           freq[prefix[j]]++;
         }
         return count;
     }
