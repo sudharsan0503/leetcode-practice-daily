@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0792-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0073-set-matrix-zeroes) |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Combinatorics
 |  |
 | ------- |
@@ -274,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -292,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
