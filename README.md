@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -294,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -313,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
