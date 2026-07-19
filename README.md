@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -304,5 +307,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
