@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
