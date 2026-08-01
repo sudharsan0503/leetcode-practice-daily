@@ -327,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
