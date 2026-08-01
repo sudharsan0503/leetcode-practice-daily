@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
