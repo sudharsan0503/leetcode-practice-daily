@@ -331,4 +331,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0185-department-top-three-salaries) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
