@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1013-fibonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
