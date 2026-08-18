@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0516-longest-palindromic-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1960-check-if-the-sentence-is-pangram) |
