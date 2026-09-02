@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2239-find-closest-number-to-zero](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2239-find-closest-number-to-zero) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
