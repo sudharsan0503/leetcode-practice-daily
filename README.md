@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/2639-separate-the-digits-in-an-array) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3194-find-words-containing-character](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudharsan0503/leetcode-practice-daily/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
